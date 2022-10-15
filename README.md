@@ -11,7 +11,7 @@ Now, "Run as Administrator" your command portal (cmd)
 
 run command
 
-***cd /d %ProgramFiles%/Microsoft Office/Office16
+   cd /d %ProgramFiles%/Microsoft Office/Office16
 
 for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 
