@@ -5,13 +5,13 @@ First of all install office setup 365 Link is given
 
 https://bit.ly/3rZ1YUF
 
-After installing, office setup, Double click on it, it will we installing automaticly, after sometime it will install.
+After installing, office setup, Double click on it, it will be installing automaticly, after sometime it will install.
 
 Now, "Run as Administrator" your command portal (cmd)
 
 run command
 
-cd /d %ProgramFiles%/Microsoft Office/Office16
+'''cd /d %ProgramFiles%/Microsoft Office/Office16'''
 
 for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 
