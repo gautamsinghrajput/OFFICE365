@@ -40,5 +40,6 @@ run command
 
 
  
-# follow on instagram:- its_gautam_singh_rajput
+# follow on instagram:- _btw_its_gautam
+# follow on instagram:- hell_boy_here_
 # youtube:- https://www.youtube.com/channel/UCQyMu_Jj11SxiMFrBHlsjdw/featured
